@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+google-genai
+pydantic
+python-dotenv
+fastapi[standard]
+pwdlib 
+PyJWT
+pwdlib[argon2]
+firebase-admin
+httpx
+pytest
